@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7ce2Cee0392609E962618E5E3536d89197659661",
+  "SCAN_LINK": "https://polygonscan.com/address/0x7ce2cee0392609e962618e5e3536d89197659661",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "XDENFT3",
+  "SYMBOL": "XDNFT3",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": "FREE",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/essaelk",
+  "SHOW_BACKGROUND": true
+}
